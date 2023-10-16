@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>img/test.jpg</file>
+        <file>img/success-svgrepo-com.svg</file>
+        <file>img/Giff.gif</file>
+        <file>img/Skypeloader.gif</file>
+    </qresource>
+</RCC>
